@@ -1,16 +1,16 @@
 Package: com.sunshinesong.dynamic-notifier
-Version: 1.0.0
+Version: 1.0.1
 Architecture: iphoneos-arm64
 Maintainer: sunshinesong
-Installed-Size: 580
+Installed-Size: 732
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
-Filename: debs/com.sunshinesong.dynamic-notifier_1.0.0_iphoneos-arm64.deb
-Size: 129802
-MD5sum: d93a6bfad4d4cdcf85f156e8d6ceef86
-SHA1: 2fb7bfaf31a13d0aa9a6af48a61236f975e71eb9
-SHA256: 878ae48c04106c3d4d5625e88b55bc81a8de928453b654204e5a1d92b97bc5ef
+Filename: debs/com.sunshinesong.dynamic-notifier_1.0.1_iphoneos-arm64.deb
+Size: 184704
+MD5sum: 64ebd8a69294c4884539006565488a1e
+SHA1: 2b1d6b38f6cf8470f3b404ce488e770a35bc3c25
+SHA256: 06b690d4f5eda786896b68ecadc9d8fd0cfeb245c2918a9083d3f8c09b7024c8
 Section: Tweaks
-Description: 上岛，不必太复杂。仅仅支持iOS16+。
+Description: 灵动消息，就是这么简单。仅仅支持iOS16+。only support above ios16.0
 Author: sunshinesong
 Name: dynamic-notifier
 
